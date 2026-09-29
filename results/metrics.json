@@ -1,0 +1,585 @@
+{
+  "title": "Customer cohorts and recurring revenue",
+  "question": "Which acquisition cohorts need a retention investigation?",
+  "kpis": {
+    "Customers": "360",
+    "Month 6 retention": "66.9%",
+    "December MRR": "$10,392",
+    "December logo churn": "6.6%"
+  },
+  "tables": {
+    "cohort_retention": [
+      {
+        "signup_month": "2025-01",
+        "age_month": 0,
+        "cohort_size": 73,
+        "retained": 73,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 1,
+        "cohort_size": 73,
+        "retained": 65,
+        "retention_pct": 89.04
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 2,
+        "cohort_size": 73,
+        "retained": 62,
+        "retention_pct": 84.93
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 3,
+        "cohort_size": 73,
+        "retained": 56,
+        "retention_pct": 76.71
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 4,
+        "cohort_size": 73,
+        "retained": 50,
+        "retention_pct": 68.49
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 5,
+        "cohort_size": 73,
+        "retained": 48,
+        "retention_pct": 65.75
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 6,
+        "cohort_size": 73,
+        "retained": 47,
+        "retention_pct": 64.38
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 7,
+        "cohort_size": 73,
+        "retained": 43,
+        "retention_pct": 58.9
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 8,
+        "cohort_size": 73,
+        "retained": 40,
+        "retention_pct": 54.79
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 9,
+        "cohort_size": 73,
+        "retained": 35,
+        "retention_pct": 47.95
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 10,
+        "cohort_size": 73,
+        "retained": 34,
+        "retention_pct": 46.58
+      },
+      {
+        "signup_month": "2025-01",
+        "age_month": 11,
+        "cohort_size": 73,
+        "retained": 32,
+        "retention_pct": 43.84
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 0,
+        "cohort_size": 62,
+        "retained": 62,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 1,
+        "cohort_size": 62,
+        "retained": 57,
+        "retention_pct": 91.94
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 2,
+        "cohort_size": 62,
+        "retained": 54,
+        "retention_pct": 87.1
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 3,
+        "cohort_size": 62,
+        "retained": 51,
+        "retention_pct": 82.26
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 4,
+        "cohort_size": 62,
+        "retained": 48,
+        "retention_pct": 77.42
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 5,
+        "cohort_size": 62,
+        "retained": 47,
+        "retention_pct": 75.81
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 6,
+        "cohort_size": 62,
+        "retained": 45,
+        "retention_pct": 72.58
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 7,
+        "cohort_size": 62,
+        "retained": 38,
+        "retention_pct": 61.29
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 8,
+        "cohort_size": 62,
+        "retained": 36,
+        "retention_pct": 58.06
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 9,
+        "cohort_size": 62,
+        "retained": 33,
+        "retention_pct": 53.23
+      },
+      {
+        "signup_month": "2025-02",
+        "age_month": 10,
+        "cohort_size": 62,
+        "retained": 28,
+        "retention_pct": 45.16
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 0,
+        "cohort_size": 55,
+        "retained": 55,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 1,
+        "cohort_size": 55,
+        "retained": 50,
+        "retention_pct": 90.91
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 2,
+        "cohort_size": 55,
+        "retained": 46,
+        "retention_pct": 83.64
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 3,
+        "cohort_size": 55,
+        "retained": 44,
+        "retention_pct": 80.0
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 4,
+        "cohort_size": 55,
+        "retained": 40,
+        "retention_pct": 72.73
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 5,
+        "cohort_size": 55,
+        "retained": 37,
+        "retention_pct": 67.27
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 6,
+        "cohort_size": 55,
+        "retained": 36,
+        "retention_pct": 65.45
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 7,
+        "cohort_size": 55,
+        "retained": 33,
+        "retention_pct": 60.0
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 8,
+        "cohort_size": 55,
+        "retained": 31,
+        "retention_pct": 56.36
+      },
+      {
+        "signup_month": "2025-03",
+        "age_month": 9,
+        "cohort_size": 55,
+        "retained": 29,
+        "retention_pct": 52.73
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 0,
+        "cohort_size": 54,
+        "retained": 54,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 1,
+        "cohort_size": 54,
+        "retained": 49,
+        "retention_pct": 90.74
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 2,
+        "cohort_size": 54,
+        "retained": 47,
+        "retention_pct": 87.04
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 3,
+        "cohort_size": 54,
+        "retained": 44,
+        "retention_pct": 81.48
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 4,
+        "cohort_size": 54,
+        "retained": 42,
+        "retention_pct": 77.78
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 5,
+        "cohort_size": 54,
+        "retained": 39,
+        "retention_pct": 72.22
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 6,
+        "cohort_size": 54,
+        "retained": 36,
+        "retention_pct": 66.67
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 7,
+        "cohort_size": 54,
+        "retained": 34,
+        "retention_pct": 62.96
+      },
+      {
+        "signup_month": "2025-04",
+        "age_month": 8,
+        "cohort_size": 54,
+        "retained": 33,
+        "retention_pct": 61.11
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 0,
+        "cohort_size": 55,
+        "retained": 55,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 1,
+        "cohort_size": 55,
+        "retained": 49,
+        "retention_pct": 89.09
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 2,
+        "cohort_size": 55,
+        "retained": 45,
+        "retention_pct": 81.82
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 3,
+        "cohort_size": 55,
+        "retained": 40,
+        "retention_pct": 72.73
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 4,
+        "cohort_size": 55,
+        "retained": 37,
+        "retention_pct": 67.27
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 5,
+        "cohort_size": 55,
+        "retained": 34,
+        "retention_pct": 61.82
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 6,
+        "cohort_size": 55,
+        "retained": 32,
+        "retention_pct": 58.18
+      },
+      {
+        "signup_month": "2025-05",
+        "age_month": 7,
+        "cohort_size": 55,
+        "retained": 31,
+        "retention_pct": 56.36
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 0,
+        "cohort_size": 61,
+        "retained": 61,
+        "retention_pct": 100.0
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 1,
+        "cohort_size": 61,
+        "retained": 58,
+        "retention_pct": 95.08
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 2,
+        "cohort_size": 61,
+        "retained": 53,
+        "retention_pct": 86.89
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 3,
+        "cohort_size": 61,
+        "retained": 52,
+        "retention_pct": 85.25
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 4,
+        "cohort_size": 61,
+        "retained": 50,
+        "retention_pct": 81.97
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 5,
+        "cohort_size": 61,
+        "retained": 48,
+        "retention_pct": 78.69
+      },
+      {
+        "signup_month": "2025-06",
+        "age_month": 6,
+        "cohort_size": 61,
+        "retained": 45,
+        "retention_pct": 73.77
+      }
+    ],
+    "channel_month6": [
+      {
+        "channel": "Paid",
+        "eligible_customers": 115,
+        "retained": 56,
+        "retention_pct": 48.7
+      },
+      {
+        "channel": "Organic",
+        "eligible_customers": 124,
+        "retained": 83,
+        "retention_pct": 66.94
+      },
+      {
+        "channel": "Referral",
+        "eligible_customers": 121,
+        "retained": 102,
+        "retention_pct": 84.3
+      }
+    ],
+    "monthly_bridge": [
+      {
+        "month": "2025-01",
+        "opening_mrr": 0.0,
+        "new_mrr": 3817.0,
+        "churned_mrr": 0.0,
+        "closing_mrr": 3817.0,
+        "opening_customers": 0,
+        "churned_customers": 0,
+        "logo_churn_pct": null
+      },
+      {
+        "month": "2025-02",
+        "opening_mrr": 3817.0,
+        "new_mrr": 3498.0,
+        "churned_mrr": 382.0,
+        "closing_mrr": 6933.0,
+        "opening_customers": 73,
+        "churned_customers": 8,
+        "logo_churn_pct": 10.96
+      },
+      {
+        "month": "2025-03",
+        "opening_mrr": 6933.0,
+        "new_mrr": 2695.0,
+        "churned_mrr": 382.0,
+        "closing_mrr": 9246.0,
+        "opening_customers": 127,
+        "churned_customers": 8,
+        "logo_churn_pct": 6.3
+      },
+      {
+        "month": "2025-04",
+        "opening_mrr": 9246.0,
+        "new_mrr": 2666.0,
+        "churned_mrr": 806.0,
+        "closing_mrr": 11106.0,
+        "opening_customers": 174,
+        "churned_customers": 14,
+        "logo_churn_pct": 8.05
+      },
+      {
+        "month": "2025-05",
+        "opening_mrr": 11106.0,
+        "new_mrr": 3045.0,
+        "churned_mrr": 1072.0,
+        "closing_mrr": 13079.0,
+        "opening_customers": 214,
+        "churned_customers": 18,
+        "logo_churn_pct": 8.41
+      },
+      {
+        "month": "2025-06",
+        "opening_mrr": 13079.0,
+        "new_mrr": 3219.0,
+        "churned_mrr": 835.0,
+        "closing_mrr": 15463.0,
+        "opening_customers": 251,
+        "churned_customers": 15,
+        "logo_churn_pct": 5.98
+      },
+      {
+        "month": "2025-07",
+        "opening_mrr": 15463.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 814.0,
+        "closing_mrr": 14649.0,
+        "opening_customers": 297,
+        "churned_customers": 16,
+        "logo_churn_pct": 5.39
+      },
+      {
+        "month": "2025-08",
+        "opening_mrr": 14649.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 1209.0,
+        "closing_mrr": 13440.0,
+        "opening_customers": 281,
+        "churned_customers": 21,
+        "logo_churn_pct": 7.47
+      },
+      {
+        "month": "2025-09",
+        "opening_mrr": 13440.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 1072.0,
+        "closing_mrr": 12368.0,
+        "opening_customers": 260,
+        "churned_customers": 18,
+        "logo_churn_pct": 6.92
+      },
+      {
+        "month": "2025-10",
+        "opening_mrr": 12368.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 872.0,
+        "closing_mrr": 11496.0,
+        "opening_customers": 242,
+        "churned_customers": 18,
+        "logo_churn_pct": 7.44
+      },
+      {
+        "month": "2025-11",
+        "opening_mrr": 11496.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 548.0,
+        "closing_mrr": 10948.0,
+        "opening_customers": 224,
+        "churned_customers": 12,
+        "logo_churn_pct": 5.36
+      },
+      {
+        "month": "2025-12",
+        "opening_mrr": 10948.0,
+        "new_mrr": 0.0,
+        "churned_mrr": 556.0,
+        "closing_mrr": 10392.0,
+        "opening_customers": 212,
+        "churned_customers": 14,
+        "logo_churn_pct": 6.6
+      }
+    ]
+  },
+  "findings": [
+    "Paid has the lowest observed month-6 retention (48.7%, n=115).",
+    "December revenue reconciles: $10,948 opening + $0 new \u2212 $556 churn = $10,392 closing MRR.",
+    "Cohorts are compared at equal customer age, avoiding comparisons between immature and mature cohorts."
+  ],
+  "actions": [
+    "Audit acquisition expectations and onboarding for the lowest-retention channel.",
+    "Run a controlled onboarding pilot; use age-3 retention as its outcome and support volume as a guardrail.",
+    "Assign customer success ownership of the monthly MRR reconciliation and investigate any unmatched changes."
+  ],
+  "limitations": "Synthetic subscription snapshots through December 2025. No reactivation, expansion or downgrades are modeled. The month-6 comparison only includes customers observed at that age. Channel differences are descriptive and may reflect selection; they do not establish acquisition-channel effects.",
+  "chart": {
+    "title": "Month 6 retention by acquisition channel",
+    "note": "Active customers divided by customers with a complete month-6 observation.",
+    "unit": "%",
+    "rows": [
+      {
+        "label": "Paid",
+        "value": 48.7
+      },
+      {
+        "label": "Organic",
+        "value": 66.94
+      },
+      {
+        "label": "Referral",
+        "value": 84.3
+      }
+    ]
+  }
+}
